@@ -1,0 +1,2092 @@
+{
+  "scenario_count": 594,
+  "area_composition_count": 66,
+  "primary_lp_count": 594,
+  "individually_solved_scenario_count": 594,
+  "terrain_group_counts": {
+    "1": {
+      "compositions": 3,
+      "scenarios": 27
+    },
+    "2": {
+      "compositions": 27,
+      "scenarios": 243
+    },
+    "3": {
+      "compositions": 36,
+      "scenarios": 324
+    }
+  },
+  "extrema": {
+    "T_optimal_h": {
+      "minimum": 8.020841354174687,
+      "maximum": 25.694470138914582,
+      "minimum_scenarios": [
+        {
+          "scenario": "P66_k0.1",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.1,
+          "T_optimal_h": 8.020841354174687
+        },
+        {
+          "scenario": "P66_k0.2",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.2,
+          "T_optimal_h": 8.020841354174687
+        },
+        {
+          "scenario": "P66_k0.3",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.3,
+          "T_optimal_h": 8.020841354174687
+        },
+        {
+          "scenario": "P66_k0.4",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.4,
+          "T_optimal_h": 8.020841354174687
+        },
+        {
+          "scenario": "P66_k0.5",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.5,
+          "T_optimal_h": 8.020841354174687
+        },
+        {
+          "scenario": "P66_k0.6",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.6,
+          "T_optimal_h": 8.020841354174687
+        },
+        {
+          "scenario": "P66_k0.7",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.7,
+          "T_optimal_h": 8.020841354174687
+        },
+        {
+          "scenario": "P66_k0.8",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.8,
+          "T_optimal_h": 8.020841354174687
+        },
+        {
+          "scenario": "P66_k0.9",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.9,
+          "T_optimal_h": 8.020841354174687
+        }
+      ],
+      "maximum_scenarios": [
+        {
+          "scenario": "P01_k0.1",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.1,
+          "T_optimal_h": 25.694470138914582
+        },
+        {
+          "scenario": "P01_k0.2",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.2,
+          "T_optimal_h": 25.694470138914582
+        },
+        {
+          "scenario": "P01_k0.3",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.3,
+          "T_optimal_h": 25.694470138914582
+        },
+        {
+          "scenario": "P01_k0.4",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.4,
+          "T_optimal_h": 25.694470138914582
+        },
+        {
+          "scenario": "P01_k0.5",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.5,
+          "T_optimal_h": 25.694470138914582
+        },
+        {
+          "scenario": "P01_k0.6",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.6,
+          "T_optimal_h": 25.694470138914582
+        },
+        {
+          "scenario": "P01_k0.7",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.7,
+          "T_optimal_h": 25.694470138914582
+        },
+        {
+          "scenario": "P01_k0.8",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.8,
+          "T_optimal_h": 25.694470138914582
+        },
+        {
+          "scenario": "P01_k0.9",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.9,
+          "T_optimal_h": 25.694470138914582
+        }
+      ]
+    },
+    "improvement_equal_pct": {
+      "minimum": 0.0,
+      "maximum": 57.48480081629182,
+      "minimum_scenarios": [
+        {
+          "scenario": "P01_k0.1",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.1,
+          "improvement_equal_pct": 0.0
+        },
+        {
+          "scenario": "P01_k0.2",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.2,
+          "improvement_equal_pct": 0.0
+        },
+        {
+          "scenario": "P01_k0.3",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.3,
+          "improvement_equal_pct": 0.0
+        },
+        {
+          "scenario": "P01_k0.4",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.4,
+          "improvement_equal_pct": 0.0
+        },
+        {
+          "scenario": "P01_k0.5",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.5,
+          "improvement_equal_pct": 0.0
+        },
+        {
+          "scenario": "P01_k0.6",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.6,
+          "improvement_equal_pct": 0.0
+        },
+        {
+          "scenario": "P01_k0.7",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.7,
+          "improvement_equal_pct": 0.0
+        },
+        {
+          "scenario": "P01_k0.8",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.8,
+          "improvement_equal_pct": 0.0
+        },
+        {
+          "scenario": "P01_k0.9",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.9,
+          "improvement_equal_pct": 0.0
+        }
+      ],
+      "maximum_scenarios": [
+        {
+          "scenario": "P11_k0.1",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.1,
+          "improvement_equal_pct": 57.48480081629182
+        },
+        {
+          "scenario": "P21_k0.1",
+          "good_pct": 10,
+          "restricted_pct": 90,
+          "high_pct": 0,
+          "k": 0.1,
+          "improvement_equal_pct": 57.48480081629182
+        },
+        {
+          "scenario": "P30_k0.1",
+          "good_pct": 20,
+          "restricted_pct": 80,
+          "high_pct": 0,
+          "k": 0.1,
+          "improvement_equal_pct": 57.48480081629182
+        },
+        {
+          "scenario": "P38_k0.1",
+          "good_pct": 30,
+          "restricted_pct": 70,
+          "high_pct": 0,
+          "k": 0.1,
+          "improvement_equal_pct": 57.48480081629182
+        },
+        {
+          "scenario": "P45_k0.1",
+          "good_pct": 40,
+          "restricted_pct": 60,
+          "high_pct": 0,
+          "k": 0.1,
+          "improvement_equal_pct": 57.48480081629182
+        },
+        {
+          "scenario": "P51_k0.1",
+          "good_pct": 50,
+          "restricted_pct": 50,
+          "high_pct": 0,
+          "k": 0.1,
+          "improvement_equal_pct": 57.48480081629182
+        }
+      ]
+    },
+    "improvement_proportional_pct": {
+      "minimum": -1.658521000535984e-14,
+      "maximum": 34.06845488200958,
+      "minimum_scenarios": [
+        {
+          "scenario": "P01_k0.1",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.1,
+          "improvement_proportional_pct": -1.3826763733959528e-14
+        },
+        {
+          "scenario": "P01_k0.2",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.2,
+          "improvement_proportional_pct": -1.3826763733959528e-14
+        },
+        {
+          "scenario": "P01_k0.3",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.3,
+          "improvement_proportional_pct": -1.3826763733959528e-14
+        },
+        {
+          "scenario": "P01_k0.4",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.4,
+          "improvement_proportional_pct": -1.3826763733959528e-14
+        },
+        {
+          "scenario": "P01_k0.5",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.5,
+          "improvement_proportional_pct": -1.3826763733959528e-14
+        },
+        {
+          "scenario": "P01_k0.6",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.6,
+          "improvement_proportional_pct": -1.3826763733959528e-14
+        },
+        {
+          "scenario": "P01_k0.7",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.7,
+          "improvement_proportional_pct": -1.3826763733959528e-14
+        },
+        {
+          "scenario": "P01_k0.8",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.8,
+          "improvement_proportional_pct": -1.3826763733959528e-14
+        },
+        {
+          "scenario": "P01_k0.9",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.9,
+          "improvement_proportional_pct": -1.3826763733959528e-14
+        },
+        {
+          "scenario": "P11_k0.1",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.1,
+          "improvement_proportional_pct": 0.0
+        },
+        {
+          "scenario": "P11_k0.2",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.2,
+          "improvement_proportional_pct": 0.0
+        },
+        {
+          "scenario": "P11_k0.3",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.3,
+          "improvement_proportional_pct": 0.0
+        },
+        {
+          "scenario": "P11_k0.4",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.4,
+          "improvement_proportional_pct": 2.8566103082994225e-14
+        },
+        {
+          "scenario": "P11_k0.5",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.5,
+          "improvement_proportional_pct": 1.5434130773428474e-14
+        },
+        {
+          "scenario": "P11_k0.6",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.6,
+          "improvement_proportional_pct": -1.658521000535984e-14
+        },
+        {
+          "scenario": "P11_k0.7",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.7,
+          "improvement_proportional_pct": 0.0
+        },
+        {
+          "scenario": "P11_k0.8",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.8,
+          "improvement_proportional_pct": 0.0
+        },
+        {
+          "scenario": "P11_k0.9",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.9,
+          "improvement_proportional_pct": 2.0038447701153924e-14
+        },
+        {
+          "scenario": "P66_k0.1",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.1,
+          "improvement_proportional_pct": 0.0
+        },
+        {
+          "scenario": "P66_k0.2",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.2,
+          "improvement_proportional_pct": 0.0
+        },
+        {
+          "scenario": "P66_k0.3",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.3,
+          "improvement_proportional_pct": 0.0
+        },
+        {
+          "scenario": "P66_k0.4",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.4,
+          "improvement_proportional_pct": 0.0
+        },
+        {
+          "scenario": "P66_k0.5",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.5,
+          "improvement_proportional_pct": 0.0
+        },
+        {
+          "scenario": "P66_k0.6",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.6,
+          "improvement_proportional_pct": 0.0
+        },
+        {
+          "scenario": "P66_k0.7",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.7,
+          "improvement_proportional_pct": 0.0
+        },
+        {
+          "scenario": "P66_k0.8",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.8,
+          "improvement_proportional_pct": 0.0
+        },
+        {
+          "scenario": "P66_k0.9",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.9,
+          "improvement_proportional_pct": 0.0
+        }
+      ],
+      "maximum_scenarios": [
+        {
+          "scenario": "P07_k0.9",
+          "good_pct": 0,
+          "restricted_pct": 60,
+          "high_pct": 40,
+          "k": 0.9,
+          "improvement_proportional_pct": 34.06845488200958
+        }
+      ]
+    },
+    "saved_equal_h": {
+      "minimum": 0.0,
+      "maximum": 22.17777809270518,
+      "minimum_scenarios": [
+        {
+          "scenario": "P01_k0.1",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.1,
+          "saved_equal_h": 0.0
+        },
+        {
+          "scenario": "P01_k0.2",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.2,
+          "saved_equal_h": 0.0
+        },
+        {
+          "scenario": "P01_k0.3",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.3,
+          "saved_equal_h": 0.0
+        },
+        {
+          "scenario": "P01_k0.4",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.4,
+          "saved_equal_h": 0.0
+        },
+        {
+          "scenario": "P01_k0.5",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.5,
+          "saved_equal_h": 0.0
+        },
+        {
+          "scenario": "P01_k0.6",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.6,
+          "saved_equal_h": 0.0
+        },
+        {
+          "scenario": "P01_k0.7",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.7,
+          "saved_equal_h": 0.0
+        },
+        {
+          "scenario": "P01_k0.8",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.8,
+          "saved_equal_h": 0.0
+        },
+        {
+          "scenario": "P01_k0.9",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.9,
+          "saved_equal_h": 0.0
+        }
+      ],
+      "maximum_scenarios": [
+        {
+          "scenario": "P11_k0.1",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.1,
+          "saved_equal_h": 22.17777809270518
+        }
+      ]
+    },
+    "saved_proportional_h": {
+      "minimum": -3.552713678800501e-15,
+      "maximum": 5.349893840866697,
+      "minimum_scenarios": [
+        {
+          "scenario": "P01_k0.1",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.1,
+          "saved_proportional_h": -3.552713678800501e-15
+        },
+        {
+          "scenario": "P01_k0.2",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.2,
+          "saved_proportional_h": -3.552713678800501e-15
+        },
+        {
+          "scenario": "P01_k0.3",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.3,
+          "saved_proportional_h": -3.552713678800501e-15
+        },
+        {
+          "scenario": "P01_k0.4",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.4,
+          "saved_proportional_h": -3.552713678800501e-15
+        },
+        {
+          "scenario": "P01_k0.5",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.5,
+          "saved_proportional_h": -3.552713678800501e-15
+        },
+        {
+          "scenario": "P01_k0.6",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.6,
+          "saved_proportional_h": -3.552713678800501e-15
+        },
+        {
+          "scenario": "P01_k0.7",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.7,
+          "saved_proportional_h": -3.552713678800501e-15
+        },
+        {
+          "scenario": "P01_k0.8",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.8,
+          "saved_proportional_h": -3.552713678800501e-15
+        },
+        {
+          "scenario": "P01_k0.9",
+          "good_pct": 0,
+          "restricted_pct": 0,
+          "high_pct": 100,
+          "k": 0.9,
+          "saved_proportional_h": -3.552713678800501e-15
+        },
+        {
+          "scenario": "P11_k0.1",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.1,
+          "saved_proportional_h": 0.0
+        },
+        {
+          "scenario": "P11_k0.2",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.2,
+          "saved_proportional_h": 0.0
+        },
+        {
+          "scenario": "P11_k0.3",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.3,
+          "saved_proportional_h": 0.0
+        },
+        {
+          "scenario": "P11_k0.4",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.4,
+          "saved_proportional_h": 3.552713678800501e-15
+        },
+        {
+          "scenario": "P11_k0.5",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.5,
+          "saved_proportional_h": 1.7763568394002505e-15
+        },
+        {
+          "scenario": "P11_k0.6",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.6,
+          "saved_proportional_h": -1.7763568394002505e-15
+        },
+        {
+          "scenario": "P11_k0.7",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.7,
+          "saved_proportional_h": 0.0
+        },
+        {
+          "scenario": "P11_k0.8",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.8,
+          "saved_proportional_h": 0.0
+        },
+        {
+          "scenario": "P11_k0.9",
+          "good_pct": 0,
+          "restricted_pct": 100,
+          "high_pct": 0,
+          "k": 0.9,
+          "saved_proportional_h": 1.7763568394002505e-15
+        },
+        {
+          "scenario": "P66_k0.1",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.1,
+          "saved_proportional_h": 0.0
+        },
+        {
+          "scenario": "P66_k0.2",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.2,
+          "saved_proportional_h": 0.0
+        },
+        {
+          "scenario": "P66_k0.3",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.3,
+          "saved_proportional_h": 0.0
+        },
+        {
+          "scenario": "P66_k0.4",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.4,
+          "saved_proportional_h": 0.0
+        },
+        {
+          "scenario": "P66_k0.5",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.5,
+          "saved_proportional_h": 0.0
+        },
+        {
+          "scenario": "P66_k0.6",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.6,
+          "saved_proportional_h": 0.0
+        },
+        {
+          "scenario": "P66_k0.7",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.7,
+          "saved_proportional_h": 0.0
+        },
+        {
+          "scenario": "P66_k0.8",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.8,
+          "saved_proportional_h": 0.0
+        },
+        {
+          "scenario": "P66_k0.9",
+          "good_pct": 100,
+          "restricted_pct": 0,
+          "high_pct": 0,
+          "k": 0.9,
+          "saved_proportional_h": 0.0
+        }
+      ],
+      "maximum_scenarios": [
+        {
+          "scenario": "P06_k0.6",
+          "good_pct": 0,
+          "restricted_pct": 50,
+          "high_pct": 50,
+          "k": 0.6,
+          "saved_proportional_h": 5.349893840866697
+        }
+      ]
+    }
+  },
+  "by_terrain_count": {
+    "1": {
+      "T_optimal_h": {
+        "minimum": 8.020841354174687,
+        "maximum": 25.694470138914582,
+        "minimum_scenarios": [
+          {
+            "scenario": "P66_k0.1",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.1,
+            "T_optimal_h": 8.020841354174687
+          },
+          {
+            "scenario": "P66_k0.2",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.2,
+            "T_optimal_h": 8.020841354174687
+          },
+          {
+            "scenario": "P66_k0.3",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.3,
+            "T_optimal_h": 8.020841354174687
+          },
+          {
+            "scenario": "P66_k0.4",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.4,
+            "T_optimal_h": 8.020841354174687
+          },
+          {
+            "scenario": "P66_k0.5",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.5,
+            "T_optimal_h": 8.020841354174687
+          },
+          {
+            "scenario": "P66_k0.6",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.6,
+            "T_optimal_h": 8.020841354174687
+          },
+          {
+            "scenario": "P66_k0.7",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.7,
+            "T_optimal_h": 8.020841354174687
+          },
+          {
+            "scenario": "P66_k0.8",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.8,
+            "T_optimal_h": 8.020841354174687
+          },
+          {
+            "scenario": "P66_k0.9",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.9,
+            "T_optimal_h": 8.020841354174687
+          }
+        ],
+        "maximum_scenarios": [
+          {
+            "scenario": "P01_k0.1",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.1,
+            "T_optimal_h": 25.694470138914582
+          },
+          {
+            "scenario": "P01_k0.2",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.2,
+            "T_optimal_h": 25.694470138914582
+          },
+          {
+            "scenario": "P01_k0.3",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.3,
+            "T_optimal_h": 25.694470138914582
+          },
+          {
+            "scenario": "P01_k0.4",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.4,
+            "T_optimal_h": 25.694470138914582
+          },
+          {
+            "scenario": "P01_k0.5",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.5,
+            "T_optimal_h": 25.694470138914582
+          },
+          {
+            "scenario": "P01_k0.6",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.6,
+            "T_optimal_h": 25.694470138914582
+          },
+          {
+            "scenario": "P01_k0.7",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.7,
+            "T_optimal_h": 25.694470138914582
+          },
+          {
+            "scenario": "P01_k0.8",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.8,
+            "T_optimal_h": 25.694470138914582
+          },
+          {
+            "scenario": "P01_k0.9",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.9,
+            "T_optimal_h": 25.694470138914582
+          }
+        ]
+      },
+      "improvement_equal_pct": {
+        "minimum": 0.0,
+        "maximum": 57.48480081629182,
+        "minimum_scenarios": [
+          {
+            "scenario": "P01_k0.1",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.1,
+            "improvement_equal_pct": 0.0
+          },
+          {
+            "scenario": "P01_k0.2",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.2,
+            "improvement_equal_pct": 0.0
+          },
+          {
+            "scenario": "P01_k0.3",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.3,
+            "improvement_equal_pct": 0.0
+          },
+          {
+            "scenario": "P01_k0.4",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.4,
+            "improvement_equal_pct": 0.0
+          },
+          {
+            "scenario": "P01_k0.5",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.5,
+            "improvement_equal_pct": 0.0
+          },
+          {
+            "scenario": "P01_k0.6",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.6,
+            "improvement_equal_pct": 0.0
+          },
+          {
+            "scenario": "P01_k0.7",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.7,
+            "improvement_equal_pct": 0.0
+          },
+          {
+            "scenario": "P01_k0.8",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.8,
+            "improvement_equal_pct": 0.0
+          },
+          {
+            "scenario": "P01_k0.9",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.9,
+            "improvement_equal_pct": 0.0
+          }
+        ],
+        "maximum_scenarios": [
+          {
+            "scenario": "P11_k0.1",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.1,
+            "improvement_equal_pct": 57.48480081629182
+          }
+        ]
+      },
+      "improvement_proportional_pct": {
+        "minimum": -1.658521000535984e-14,
+        "maximum": 2.8566103082994225e-14,
+        "minimum_scenarios": [
+          {
+            "scenario": "P01_k0.1",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.1,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.2",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.2,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.3",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.3,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.4",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.4,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.5",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.5,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.6",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.6,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.7",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.7,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.8",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.8,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.9",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.9,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P11_k0.1",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.1,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P11_k0.2",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.2,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P11_k0.3",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.3,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P11_k0.4",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.4,
+            "improvement_proportional_pct": 2.8566103082994225e-14
+          },
+          {
+            "scenario": "P11_k0.5",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.5,
+            "improvement_proportional_pct": 1.5434130773428474e-14
+          },
+          {
+            "scenario": "P11_k0.6",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.6,
+            "improvement_proportional_pct": -1.658521000535984e-14
+          },
+          {
+            "scenario": "P11_k0.7",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.7,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P11_k0.8",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.8,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P11_k0.9",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.9,
+            "improvement_proportional_pct": 2.0038447701153924e-14
+          },
+          {
+            "scenario": "P66_k0.1",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.1,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.2",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.2,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.3",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.3,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.4",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.4,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.5",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.5,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.6",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.6,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.7",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.7,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.8",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.8,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.9",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.9,
+            "improvement_proportional_pct": 0.0
+          }
+        ],
+        "maximum_scenarios": [
+          {
+            "scenario": "P01_k0.1",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.1,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.2",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.2,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.3",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.3,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.4",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.4,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.5",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.5,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.6",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.6,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.7",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.7,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.8",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.8,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P01_k0.9",
+            "good_pct": 0,
+            "restricted_pct": 0,
+            "high_pct": 100,
+            "k": 0.9,
+            "improvement_proportional_pct": -1.3826763733959528e-14
+          },
+          {
+            "scenario": "P11_k0.1",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.1,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P11_k0.2",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.2,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P11_k0.3",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.3,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P11_k0.4",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.4,
+            "improvement_proportional_pct": 2.8566103082994225e-14
+          },
+          {
+            "scenario": "P11_k0.5",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.5,
+            "improvement_proportional_pct": 1.5434130773428474e-14
+          },
+          {
+            "scenario": "P11_k0.6",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.6,
+            "improvement_proportional_pct": -1.658521000535984e-14
+          },
+          {
+            "scenario": "P11_k0.7",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.7,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P11_k0.8",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.8,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P11_k0.9",
+            "good_pct": 0,
+            "restricted_pct": 100,
+            "high_pct": 0,
+            "k": 0.9,
+            "improvement_proportional_pct": 2.0038447701153924e-14
+          },
+          {
+            "scenario": "P66_k0.1",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.1,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.2",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.2,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.3",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.3,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.4",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.4,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.5",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.5,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.6",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.6,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.7",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.7,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.8",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.8,
+            "improvement_proportional_pct": 0.0
+          },
+          {
+            "scenario": "P66_k0.9",
+            "good_pct": 100,
+            "restricted_pct": 0,
+            "high_pct": 0,
+            "k": 0.9,
+            "improvement_proportional_pct": 0.0
+          }
+        ]
+      }
+    },
+    "2": {
+      "T_optimal_h": {
+        "minimum": 8.100168356578612,
+        "maximum": 23.125023125023123,
+        "minimum_scenarios": [
+          {
+            "scenario": "P65_k0.1",
+            "good_pct": 90,
+            "restricted_pct": 10,
+            "high_pct": 0,
+            "k": 0.1,
+            "T_optimal_h": 8.100168356578612
+          },
+          {
+            "scenario": "P65_k0.2",
+            "good_pct": 90,
+            "restricted_pct": 10,
+            "high_pct": 0,
+            "k": 0.2,
+            "T_optimal_h": 8.100168356578612
+          },
+          {
+            "scenario": "P65_k0.3",
+            "good_pct": 90,
+            "restricted_pct": 10,
+            "high_pct": 0,
+            "k": 0.3,
+            "T_optimal_h": 8.100168356578612
+          },
+          {
+            "scenario": "P65_k0.4",
+            "good_pct": 90,
+            "restricted_pct": 10,
+            "high_pct": 0,
+            "k": 0.4,
+            "T_optimal_h": 8.100168356578612
+          },
+          {
+            "scenario": "P65_k0.5",
+            "good_pct": 90,
+            "restricted_pct": 10,
+            "high_pct": 0,
+            "k": 0.5,
+            "T_optimal_h": 8.100168356578612
+          },
+          {
+            "scenario": "P65_k0.6",
+            "good_pct": 90,
+            "restricted_pct": 10,
+            "high_pct": 0,
+            "k": 0.6,
+            "T_optimal_h": 8.100168356578612
+          },
+          {
+            "scenario": "P65_k0.7",
+            "good_pct": 90,
+            "restricted_pct": 10,
+            "high_pct": 0,
+            "k": 0.7,
+            "T_optimal_h": 8.100168356578612
+          },
+          {
+            "scenario": "P65_k0.8",
+            "good_pct": 90,
+            "restricted_pct": 10,
+            "high_pct": 0,
+            "k": 0.8,
+            "T_optimal_h": 8.100168356578612
+          },
+          {
+            "scenario": "P65_k0.9",
+            "good_pct": 90,
+            "restricted_pct": 10,
+            "high_pct": 0,
+            "k": 0.9,
+            "T_optimal_h": 8.100168356578612
+          }
+        ],
+        "maximum_scenarios": [
+          {
+            "scenario": "P02_k0.1",
+            "good_pct": 0,
+            "restricted_pct": 10,
+            "high_pct": 90,
+            "k": 0.1,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P02_k0.2",
+            "good_pct": 0,
+            "restricted_pct": 10,
+            "high_pct": 90,
+            "k": 0.2,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P02_k0.3",
+            "good_pct": 0,
+            "restricted_pct": 10,
+            "high_pct": 90,
+            "k": 0.3,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P02_k0.4",
+            "good_pct": 0,
+            "restricted_pct": 10,
+            "high_pct": 90,
+            "k": 0.4,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P02_k0.5",
+            "good_pct": 0,
+            "restricted_pct": 10,
+            "high_pct": 90,
+            "k": 0.5,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P02_k0.6",
+            "good_pct": 0,
+            "restricted_pct": 10,
+            "high_pct": 90,
+            "k": 0.6,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P02_k0.7",
+            "good_pct": 0,
+            "restricted_pct": 10,
+            "high_pct": 90,
+            "k": 0.7,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P02_k0.8",
+            "good_pct": 0,
+            "restricted_pct": 10,
+            "high_pct": 90,
+            "k": 0.8,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P02_k0.9",
+            "good_pct": 0,
+            "restricted_pct": 10,
+            "high_pct": 90,
+            "k": 0.9,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P12_k0.1",
+            "good_pct": 10,
+            "restricted_pct": 0,
+            "high_pct": 90,
+            "k": 0.1,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P12_k0.2",
+            "good_pct": 10,
+            "restricted_pct": 0,
+            "high_pct": 90,
+            "k": 0.2,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P12_k0.3",
+            "good_pct": 10,
+            "restricted_pct": 0,
+            "high_pct": 90,
+            "k": 0.3,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P12_k0.4",
+            "good_pct": 10,
+            "restricted_pct": 0,
+            "high_pct": 90,
+            "k": 0.4,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P12_k0.5",
+            "good_pct": 10,
+            "restricted_pct": 0,
+            "high_pct": 90,
+            "k": 0.5,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P12_k0.6",
+            "good_pct": 10,
+            "restricted_pct": 0,
+            "high_pct": 90,
+            "k": 0.6,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P12_k0.7",
+            "good_pct": 10,
+            "restricted_pct": 0,
+            "high_pct": 90,
+            "k": 0.7,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P12_k0.8",
+            "good_pct": 10,
+            "restricted_pct": 0,
+            "high_pct": 90,
+            "k": 0.8,
+            "T_optimal_h": 23.125023125023123
+          },
+          {
+            "scenario": "P12_k0.9",
+            "good_pct": 10,
+            "restricted_pct": 0,
+            "high_pct": 90,
+            "k": 0.9,
+            "T_optimal_h": 23.125023125023123
+          }
+        ]
+      },
+      "improvement_equal_pct": {
+        "minimum": 0.23679977219761972,
+        "maximum": 57.48480081629182,
+        "minimum_scenarios": [
+          {
+            "scenario": "P06_k0.1",
+            "good_pct": 0,
+            "restricted_pct": 50,
+            "high_pct": 50,
+            "k": 0.1,
+            "improvement_equal_pct": 0.23679977219761972
+          }
+        ],
+        "maximum_scenarios": [
+          {
+            "scenario": "P21_k0.1",
+            "good_pct": 10,
+            "restricted_pct": 90,
+            "high_pct": 0,
+            "k": 0.1,
+            "improvement_equal_pct": 57.48480081629182
+          },
+          {
+            "scenario": "P30_k0.1",
+            "good_pct": 20,
+            "restricted_pct": 80,
+            "high_pct": 0,
+            "k": 0.1,
+            "improvement_equal_pct": 57.48480081629182
+          },
+          {
+            "scenario": "P38_k0.1",
+            "good_pct": 30,
+            "restricted_pct": 70,
+            "high_pct": 0,
+            "k": 0.1,
+            "improvement_equal_pct": 57.48480081629182
+          },
+          {
+            "scenario": "P45_k0.1",
+            "good_pct": 40,
+            "restricted_pct": 60,
+            "high_pct": 0,
+            "k": 0.1,
+            "improvement_equal_pct": 57.48480081629182
+          },
+          {
+            "scenario": "P51_k0.1",
+            "good_pct": 50,
+            "restricted_pct": 50,
+            "high_pct": 0,
+            "k": 0.1,
+            "improvement_equal_pct": 57.48480081629182
+          }
+        ]
+      },
+      "improvement_proportional_pct": {
+        "minimum": 0.04848652767195073,
+        "maximum": 34.06845488200958,
+        "minimum_scenarios": [
+          {
+            "scenario": "P21_k0.9",
+            "good_pct": 10,
+            "restricted_pct": 90,
+            "high_pct": 0,
+            "k": 0.9,
+            "improvement_proportional_pct": 0.04848652767195073
+          }
+        ],
+        "maximum_scenarios": [
+          {
+            "scenario": "P07_k0.9",
+            "good_pct": 0,
+            "restricted_pct": 60,
+            "high_pct": 40,
+            "k": 0.9,
+            "improvement_proportional_pct": 34.06845488200958
+          }
+        ]
+      }
+    },
+    "3": {
+      "T_optimal_h": {
+        "minimum": 8.532059814111095,
+        "maximum": 20.555576111131664,
+        "minimum_scenarios": [
+          {
+            "scenario": "P62_k0.1",
+            "good_pct": 80,
+            "restricted_pct": 10,
+            "high_pct": 10,
+            "k": 0.1,
+            "T_optimal_h": 8.532059814111095
+          },
+          {
+            "scenario": "P62_k0.2",
+            "good_pct": 80,
+            "restricted_pct": 10,
+            "high_pct": 10,
+            "k": 0.2,
+            "T_optimal_h": 8.532059814111095
+          },
+          {
+            "scenario": "P62_k0.3",
+            "good_pct": 80,
+            "restricted_pct": 10,
+            "high_pct": 10,
+            "k": 0.3,
+            "T_optimal_h": 8.532059814111095
+          },
+          {
+            "scenario": "P62_k0.4",
+            "good_pct": 80,
+            "restricted_pct": 10,
+            "high_pct": 10,
+            "k": 0.4,
+            "T_optimal_h": 8.532059814111095
+          },
+          {
+            "scenario": "P62_k0.5",
+            "good_pct": 80,
+            "restricted_pct": 10,
+            "high_pct": 10,
+            "k": 0.5,
+            "T_optimal_h": 8.532059814111095
+          },
+          {
+            "scenario": "P62_k0.6",
+            "good_pct": 80,
+            "restricted_pct": 10,
+            "high_pct": 10,
+            "k": 0.6,
+            "T_optimal_h": 8.532059814111095
+          },
+          {
+            "scenario": "P62_k0.7",
+            "good_pct": 80,
+            "restricted_pct": 10,
+            "high_pct": 10,
+            "k": 0.7,
+            "T_optimal_h": 8.532059814111095
+          },
+          {
+            "scenario": "P62_k0.8",
+            "good_pct": 80,
+            "restricted_pct": 10,
+            "high_pct": 10,
+            "k": 0.8,
+            "T_optimal_h": 8.532059814111095
+          },
+          {
+            "scenario": "P62_k0.9",
+            "good_pct": 80,
+            "restricted_pct": 10,
+            "high_pct": 10,
+            "k": 0.9,
+            "T_optimal_h": 8.532059814111095
+          }
+        ],
+        "maximum_scenarios": [
+          {
+            "scenario": "P13_k0.1",
+            "good_pct": 10,
+            "restricted_pct": 10,
+            "high_pct": 80,
+            "k": 0.1,
+            "T_optimal_h": 20.555576111131664
+          },
+          {
+            "scenario": "P13_k0.2",
+            "good_pct": 10,
+            "restricted_pct": 10,
+            "high_pct": 80,
+            "k": 0.2,
+            "T_optimal_h": 20.555576111131664
+          },
+          {
+            "scenario": "P13_k0.3",
+            "good_pct": 10,
+            "restricted_pct": 10,
+            "high_pct": 80,
+            "k": 0.3,
+            "T_optimal_h": 20.555576111131664
+          },
+          {
+            "scenario": "P13_k0.4",
+            "good_pct": 10,
+            "restricted_pct": 10,
+            "high_pct": 80,
+            "k": 0.4,
+            "T_optimal_h": 20.555576111131664
+          },
+          {
+            "scenario": "P13_k0.5",
+            "good_pct": 10,
+            "restricted_pct": 10,
+            "high_pct": 80,
+            "k": 0.5,
+            "T_optimal_h": 20.555576111131664
+          },
+          {
+            "scenario": "P13_k0.6",
+            "good_pct": 10,
+            "restricted_pct": 10,
+            "high_pct": 80,
+            "k": 0.6,
+            "T_optimal_h": 20.555576111131664
+          },
+          {
+            "scenario": "P13_k0.7",
+            "good_pct": 10,
+            "restricted_pct": 10,
+            "high_pct": 80,
+            "k": 0.7,
+            "T_optimal_h": 20.555576111131664
+          },
+          {
+            "scenario": "P13_k0.8",
+            "good_pct": 10,
+            "restricted_pct": 10,
+            "high_pct": 80,
+            "k": 0.8,
+            "T_optimal_h": 20.555576111131664
+          },
+          {
+            "scenario": "P13_k0.9",
+            "good_pct": 10,
+            "restricted_pct": 10,
+            "high_pct": 80,
+            "k": 0.9,
+            "T_optimal_h": 20.555576111131664
+          }
+        ]
+      },
+      "improvement_equal_pct": {
+        "minimum": 7.135939876881821,
+        "maximum": 50.1364947845398,
+        "minimum_scenarios": [
+          {
+            "scenario": "P16_k0.1",
+            "good_pct": 10,
+            "restricted_pct": 40,
+            "high_pct": 50,
+            "k": 0.1,
+            "improvement_equal_pct": 7.135939876881821
+          }
+        ],
+        "maximum_scenarios": [
+          {
+            "scenario": "P20_k0.1",
+            "good_pct": 10,
+            "restricted_pct": 80,
+            "high_pct": 10,
+            "k": 0.1,
+            "improvement_equal_pct": 50.1364947845398
+          }
+        ]
+      },
+      "improvement_proportional_pct": {
+        "minimum": 5.524361010915362,
+        "maximum": 33.74402604942481,
+        "minimum_scenarios": [
+          {
+            "scenario": "P20_k0.1",
+            "good_pct": 10,
+            "restricted_pct": 80,
+            "high_pct": 10,
+            "k": 0.1,
+            "improvement_proportional_pct": 5.524361010915362
+          }
+        ],
+        "maximum_scenarios": [
+          {
+            "scenario": "P17_k0.9",
+            "good_pct": 10,
+            "restricted_pct": 50,
+            "high_pct": 40,
+            "k": 0.9,
+            "improvement_proportional_pct": 33.74402604942481
+          }
+        ]
+      }
+    }
+  },
+  "plateau_composition_count": 37,
+  "plateau_segments": 37,
+  "primary_structure_transition_count": 18,
+  "proportional_slower_than_equal_scenarios": [
+    "P02_k0.1",
+    "P02_k0.2",
+    "P03_k0.1",
+    "P03_k0.2",
+    "P04_k0.1",
+    "P04_k0.2",
+    "P05_k0.1",
+    "P05_k0.2",
+    "P06_k0.1",
+    "P06_k0.2",
+    "P07_k0.2",
+    "P08_k0.2",
+    "P09_k0.2",
+    "P14_k0.1",
+    "P15_k0.1",
+    "P16_k0.1",
+    "P17_k0.2",
+    "P18_k0.2",
+    "P19_k0.2",
+    "P26_k0.1"
+  ],
+  "negative_equal_improvement_steps": 28,
+  "all_checks_passed": true,
+  "max_residuals": {
+    "terrain_balance_error_m2": 1.1937117960769683e-11,
+    "total_area_error_m2": 7.275957614183426e-12,
+    "nonnegative_error_m2": 0.0,
+    "excluded_area_error_m2": 0.0,
+    "excluded_time_error_h": 0.0,
+    "absent_terrain_area_error_m2": 0.0,
+    "time_definition_error_m2": 9.094947017729282e-13,
+    "time_bound_error_h": 0.0,
+    "makespan_error_h": 0.0,
+    "solver_objective_error_h": 8.881784197001252e-15
+  },
+  "interpretation_notes": [
+    "Each of the 594 deterministic scenarios is solved directly once. These are designed conditions, not independent empirical observations.",
+    "No p-values or probability distributions are estimated.",
+    "All allocation patterns refer to stored primary LP solutions, not uniquely necessary individual assignments.",
+    "A zero-area terrain is absent, not fully allocated to the UGV. Undefined terrain-share percentages are null.",
+    "Total-area equality is included explicitly but is the sum of three terrain equalities."
+  ]
+}

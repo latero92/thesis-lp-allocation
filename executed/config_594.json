@@ -1,0 +1,58 @@
+{
+  "study_title": "선형계획모형을 활용한 유·무인 지뢰탐지 작업의 면적배분 최적화",
+  "human_base_rate_m2_h": 199.584,
+  "robot_base_rate_m2_h": 648.0,
+  "human_terrain_factors": [
+    1.0,
+    0.91,
+    0.65
+  ],
+  "robot_restricted_levels": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9
+  ],
+  "total_area_m2": 10000.0,
+  "solver": {
+    "method": "highs",
+    "primal_feasibility_tolerance": 1e-09,
+    "dual_feasibility_tolerance": 1e-09,
+    "ipm_optimality_tolerance": 1e-10
+  },
+  "means": [
+    "H1",
+    "H2",
+    "H3",
+    "R"
+  ],
+  "terrains": [
+    "양호",
+    "제한",
+    "고제한"
+  ],
+  "area_step_pct": 10,
+  "allow_zero_terrain": true,
+  "scenario_count": 594,
+  "substantive_decision_variables": "12 individually indexed areas; robot high-restriction area fixed to zero.",
+  "solver_variables": "12 area slots plus common time upper bound T (13 entries).",
+  "area_constraints": "3 terrain balances plus explicit redundant total-area double-sum equality.",
+  "time_constraints": "4 individual sums of area/capacity <= T over permitted pairs.",
+  "time_definition": "Derived from area/capacity on permitted pairs; excluded pairs assigned zero.",
+  "primary_solution_policy": "Store the primary LP areas unchanged. No human averaging, alternative-optimum enumeration or secondary optimization.",
+  "interpretation": "Deterministic sensitivity levels, not an empirical probability distribution. Observed grid transitions are intervals, not exact thresholds.",
+  "primary_lp_count": 594,
+  "execution_policy": "Each scenario calls scipy.optimize.linprog directly once. Every result has a unique solver call ID and timestamps.",
+  "input_policy": "This local JSON file is the standalone source of model inputs; no previous config is imported.",
+  "display_means": {
+    "H1": "H₁",
+    "H2": "H₂",
+    "H3": "H₃",
+    "R": "U"
+  }
+}

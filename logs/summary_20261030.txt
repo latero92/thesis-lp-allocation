@@ -1,0 +1,1 @@
+{"all_k_constant_compositions": 22, "k_sensitive_compositions": 44, "negative_equal_improvement_steps": 28, "proportional_slower_than_equal_count": 20, "representative_scenarios": ["P66_k0.5", "P01_k0.5", "P11_k0.1", "P07_k0.9", "P55_k0.5", "P43_k0.5", "P15_k0.1", "P15_k0.5"]}
